@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.button-counter{
+  font: bold;
+  background-color: bisque;
+  cursor: pointer;
+}
+.button-counter:hover{
+  background-color: burlywood
+}
