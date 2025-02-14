@@ -19,3 +19,16 @@ code {
 .button-counter:hover{
   background-color: burlywood
 }
+.Input{
+  background-color: bisque;
+  border-radius: 4px;
+  
+}
+.Button{
+  background-color: blue;
+  color: white;
+
+}
+.Button:hover{
+  background-color: red;
+}
